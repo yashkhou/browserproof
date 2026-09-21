@@ -1,0 +1,7 @@
+{
+  "url": "https://example.com",
+  "assertions": [
+    {"type": "titleIncludes", "value": "Example"},
+    {"type": "text", "value": "Example Domain"}
+  ]
+}

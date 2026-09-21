@@ -1,0 +1,40 @@
+{
+  "name": "browserproof",
+  "version": "0.1.0",
+  "description": "Evidence-first verification for browser automation and AI agents.",
+  "type": "module",
+  "bin": {
+    "browserproof": "./dist/cli.js"
+  },
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "vitest run"
+  },
+  "keywords": [
+    "browser-automation",
+    "ai-agents",
+    "playwright",
+    "verification",
+    "agentic-ai",
+    "testing",
+    "typescript"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashkhou/browserproof.git"
+  },
+  "homepage": "https://yashkhou.github.io/browserproof/",
+  "dependencies": {
+    "commander": "^14.0.0",
+    "playwright": "^1.55.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.9.0",
+    "vitest": "^3.2.0"
+  }
+}

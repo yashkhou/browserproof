@@ -1,0 +1,11 @@
+# BrowserProof
+> Proof, not vibes, for browser agents.
+
+BrowserProof is an evidence-first TypeScript runner for AI-agent browser automation.
+It checks explicit success conditions, captures final screenshots, hashes evidence,
+and emits JSON plus HTML proof reports.
+
+Repository: https://github.com/yashkhou/browserproof
+Docs: https://yashkhou.github.io/browserproof/
+License: MIT
+Canonical technical source: the GitHub README and source code.

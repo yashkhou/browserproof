@@ -1,0 +1,5 @@
+node_modules/
+dist/
+browserproof-artifacts/
+.DS_Store
+*.log

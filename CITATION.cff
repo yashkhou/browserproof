@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use BrowserProof in research or tooling, please cite this repository."
+title: "BrowserProof"
+type: software
+authors:
+  - family-names: "Yash"
+repository-code: "https://github.com/yashkhou/browserproof"
+url: "https://yashkhou.github.io/browserproof/"
+license: MIT
+version: 0.1.0
+date-released: 2026-09-21
