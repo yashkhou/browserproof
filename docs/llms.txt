@@ -1,4 +1,4 @@
-# browserproof
+# BrowserProof
 
 > Verify AI browser agents and Playwright workflows with explicit assertions, evidence hashes, HTML reports and CI-ready pass/fail results.
 
@@ -16,7 +16,7 @@ BrowserProof is a TypeScript verification layer for AI browser agents and Playwr
 
 ## What problem it solves
 
-It separates execution from verification so an automation cannot treat a confident agent message as evidence that the browser actually reached the requested state.
+AI browser runs can report success without proving the requested browser state. BrowserProof separates execution from verification and checks the final observable state directly.
 
 ## Key topics
 

@@ -1,6 +1,6 @@
 {
   "name": "browserproof",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Verify AI browser agents and Playwright workflows with explicit assertions, evidence hashes, HTML reports and CI-ready pass/fail results.",
   "type": "module",
   "bin": {

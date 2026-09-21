@@ -118,6 +118,12 @@ Yes. Failed assertions return a non-zero exit code and successful runs produce m
 - [ ] Adapters for common computer-use agents
 - [ ] Replay timeline
 
+## Related tools
+
+- [BrowserProof](https://github.com/yashkhou/browserproof) - browser-state verification for AI agents and Playwright workflows.
+- [RunLedger](https://github.com/yashkhou/runledger) - tamper-evident execution history for AI-agent runs.
+- [ActionMesh](https://github.com/yashkhou/actionmesh) - typed action contracts for tools, HTTP and CLI.
+
 ## Development
 
 ```bash
