@@ -1,7 +1,7 @@
 {
   "name": "browserproof",
   "version": "0.2.0",
-  "description": "Evidence-first verification for browser automation and AI agents.",
+  "description": "Verify AI browser agents and Playwright workflows with explicit assertions, evidence hashes, HTML reports and CI-ready pass/fail results.",
   "type": "module",
   "bin": {
     "browserproof": "./dist/cli.js"
@@ -15,11 +15,16 @@
   },
   "keywords": [
     "browser-automation",
+    "browser-agent",
     "ai-agents",
+    "computer-use",
     "playwright",
+    "playwright-testing",
     "verification",
-    "agentic-ai",
-    "testing",
+    "agent-verification",
+    "ai-testing",
+    "evidence",
+    "ci",
     "typescript"
   ],
   "license": "MIT",
@@ -36,5 +41,15 @@
     "@types/node": "^22.0.0",
     "typescript": "^5.9.0",
     "vitest": "^3.2.0"
+  },
+  "author": {
+    "name": "Yash",
+    "url": "https://github.com/yashkhou"
+  },
+  "bugs": {
+    "url": "https://github.com/yashkhou/browserproof/issues"
+  },
+  "engines": {
+    "node": ">=20"
   }
 }
