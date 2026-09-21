@@ -1,0 +1,28 @@
+{
+  "startedAt": "2026-09-21T19:32:11.910Z",
+  "finishedAt": "2026-09-21T19:32:15.875Z",
+  "url": "https://example.com",
+  "finalUrl": "https://example.com/",
+  "title": "Example Domain",
+  "passed": true,
+  "assertions": [
+    {
+      "assertion": {
+        "type": "titleIncludes",
+        "value": "Example"
+      },
+      "actual": "Example Domain",
+      "passed": true
+    },
+    {
+      "assertion": {
+        "type": "text",
+        "value": "Example Domain"
+      },
+      "actual": "Example Domain\n\nThis domain is for use in documentation examples without needing permission. Avoid use in operations.\n\nLearn more",
+      "passed": true
+    }
+  ],
+  "screenshotPath": "demo-artifacts/final.png",
+  "screenshotSha256": "b8cd4b70b1adf656bf6a1eb8b8f8d6292168508ccb48d0210c0e6dff86b439f6"
+}

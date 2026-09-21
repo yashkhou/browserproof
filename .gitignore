@@ -3,3 +3,5 @@ dist/
 browserproof-artifacts/
 .DS_Store
 *.log
+
+demo-artifacts/
