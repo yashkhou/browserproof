@@ -7,7 +7,7 @@
   <a href="https://github.com/yashkhou/browserproof/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/yashkhou/browserproof?style=flat-square"></a>
   <a href="./LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-111111?style=flat-square"></a>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <a href="https://yashkhou.github.io/browserproof/"><img alt="Live docs" src="https://img.shields.io/badge/live-docs-ff5a45?style=flat-square"></a>
+  <a href="https://yashkhou.com/projects/browserproof"><img alt="Project page" src="https://img.shields.io/badge/project-page-ff5a45?style=flat-square"></a>
 </p>
 
 <p align="center">
@@ -16,9 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="https://yashkhou.github.io/browserproof/"><strong>Live docs</strong></a> ·
-  <a href="https://yashkhou.github.io/browserproof/real-report.html"><strong>Open the real proof report</strong></a> ·
   <a href="https://yashkhou.com/projects/browserproof"><strong>Project page</strong></a> ·
+  <a href="./docs/real-report.html"><strong>Report fixture</strong></a> ·
   <a href="https://github.com/yashkhou/browserproof/releases/latest"><strong>Latest release</strong></a>
 </p>
 
@@ -40,7 +39,7 @@ Browser agents are good at acting and surprisingly bad at proving that the reque
 ## Real demo
 
 
-**[Open the real proof report →](https://yashkhou.github.io/browserproof/real-report.html)**
+**[Inspect the report fixture →](./docs/real-report.html)**
 
 ## Quick start
 
@@ -136,8 +135,8 @@ CI runs tests and the TypeScript build on every push and pull request.
 
 ## Project links
 
-- **Docs:** https://yashkhou.github.io/browserproof/
-- **Portfolio:** https://yashkhou.com/projects/browserproof
+- **Docs source:** [docs/](docs/)
+- **Project page:** https://yashkhou.com/projects/browserproof
 - **Source:** https://github.com/yashkhou/browserproof
 - **Author:** [Yash](https://github.com/yashkhou) / [@yashkhou](https://x.com/yashkhou)
 

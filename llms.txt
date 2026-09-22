@@ -5,7 +5,7 @@
 ## Canonical sources
 
 - Repository: https://github.com/yashkhou/browserproof
-- Documentation: https://yashkhou.github.io/browserproof/
+- Documentation: https://yashkhou.com/projects/browserproof
 - Releases: https://github.com/yashkhou/browserproof/releases
 - Issues: https://github.com/yashkhou/browserproof/issues
 - License: MIT
