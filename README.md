@@ -22,6 +22,14 @@
 </p>
 
 
+## Try it in 30 seconds
+
+```bash
+npm install github:yashkhou/browserproof
+npx playwright install chromium
+npx browserproof --help
+```
+
 ## Why I built this
 
 Browser agents are good at acting and surprisingly bad at proving that the requested state was actually reached. A workflow can land on the wrong page, miss a save, or attach an irrelevant screenshot and still report success. BrowserProof adds a small verification layer after the agent run.
